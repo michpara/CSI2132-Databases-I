@@ -1,2 +1,2 @@
 # Databases I
-Labs and Assignments for Databases I
+Labs for Databases I
