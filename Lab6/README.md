@@ -1,3 +1,3 @@
 # Lab 6
 
-View instructions for lab  in lab6.pptx
+View instructions for lab  in Lab6.pptx
